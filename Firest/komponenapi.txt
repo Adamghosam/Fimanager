@@ -1,0 +1,13 @@
+
+url to register
+
+http://127.0.0.1:8000/api/users/register/
+body raw:
+{
+    "nama": "Budi Santososs",
+    "alamat": "Jl. Merdeka No.10",
+    "kontak": "081234567890",
+    "email": "budi@exsample.com",
+    "role": "pelanggan",
+    "password": "password123"
+}
